@@ -4,8 +4,6 @@ Zara sales analysis project (2025)
 
 This project analyzes Zara sales across different products, categories, and cities during June and July 2025. The dataset includes transaction-level data such as date, product, city, price, and units sold.
 
-📄 [Click here to download the PDF report](https://github.com/tu_usuario/tu_repo/raw/main/zara_sales_analysis.pdf)
-
 ## 📁 Files
 
 - `zara_sales_analysis.xlsx` – Clean dataset and pivot tables created in Excel.
@@ -22,7 +20,7 @@ This project analyzes Zara sales across different products, categories, and citi
 ## 🧰 Tools Used
 
 - Microsoft Excel (pivot tables, charts)
-- Power BI (optional)
+- Power BI 
 - GitHub (for version control and portfolio hosting)
 
 ## 👤 Author
